@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="GaioConstruction Design — Γεωτεχνικές, στατικές και υδραυλικές μελέτες. Civil engineer specialising in soil-structure interaction. Patras, Greece." />
+  <meta name="theme-color" content="#0f1d2e" />
+  <title>GaioConstruction Design — Γεωτεχνικές Μελέτες · Vlachakis</title>
+
+  <!-- Fonts: Source Serif 4 + IBM Plex Sans + IBM Plex Mono (full Greek support) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;1,8..60,400&display=swap" />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+<a class="skip-link" href="#main" data-i18n="nav.home">Αρχική</a>
+
+<!-- ─── Site header ──────────────────────────────────────────── -->
+<header class="site-header" role="banner">
+  <div class="container nav">
+    <a class="brand" href="#top" aria-label="GaioConstruction Design — Αρχική">
+      <span class="brand-mark" aria-hidden="true">
+        <!-- Minimal monogram: G + abstract earth stratum -->
+        <svg viewBox="0 0 24 24" fill="none">
+          <path d="M3 16h18" stroke="currentColor" stroke-width="1" />
+          <path d="M3 18.5h18" stroke="currentColor" stroke-width="0.5" stroke-dasharray="2 2" />
+          <path d="M12 4 L18 13 H6 Z" stroke="currentColor" stroke-width="1.2" fill="none" />
+          <circle cx="12" cy="10.5" r="1" fill="currentColor" />
+        </svg>
+      </span>
+      <span class="brand-name">
+        <span>GaioConstruction Design</span>
+        <span data-i18n="brand.tagline">Γεωτεχνική · Στατική · Υδραυλική</span>
+      </span>
+    </a>
+
+    <ul class="nav-links" id="primary-nav">
+      <li><a href="#about"    data-i18n="nav.about">Σχετικά</a></li>
+      <li><a href="#services" data-i18n="nav.services">Υπηρεσίες</a></li>
+      <li><a href="#tools"    data-i18n="nav.tools">Λογισμικά</a></li>
+      <li><a href="#project"  data-i18n="nav.projects">Έργα</a></li>
+      <li><a href="#contact"  data-i18n="nav.contact">Επικοινωνία</a></li>
+    </ul>
+
+    <div class="nav-actions">
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button data-lang-btn="el" aria-pressed="true">EL</button>
+        <button data-lang-btn="en" aria-pressed="false">EN</button>
+      </div>
+      <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="primary-nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ─── Hero ──────────────────────────────────────────────────── -->
+<section class="hero" id="top" aria-labelledby="hero-h1">
+  <div class="container hero-grid">
+
+    <div class="hero-copy">
+      <span class="eyebrow" data-i18n="hero.eyebrow">GaioConstruction Design</span>
+      <h1 id="hero-h1">
+        <span data-i18n="hero.h1.l1">Όπου το έδαφος</span>
+        <span class="accent-word" data-i18n="hero.h1.accent">συναντά</span>
+        <span data-i18n="hero.h1.l2">την κατασκευή</span>
+      </h1>
+      <p class="lead hero-lead" data-i18n="hero.lead">
+        Εξειδικευμένες γεωτεχνικές, στατικές και υδραυλικές μελέτες για έργα υποδομής — με 24+ χρόνια εμπειρίας στην αλληλεπίδραση εδάφους–κατασκευής.
+      </p>
+      <div class="hero-actions">
+        <a href="#services" class="btn btn-primary" data-i18n="cta.services">
+          <span>Δείτε υπηρεσίες</span>
+          <span class="arrow" aria-hidden="true"></span>
+        </a>
+        <a href="assets/cv-vlachakis.pdf" class="btn btn-ghost" download data-i18n="cta.cv">Λήψη CV</a>
+      </div>
+    </div>
+
+    <div class="hero-media">
+      <div class="hero-media-frame">
+        <img src="assets/hero-placeholder.jpg" alt="Ορεινό τοπίο πάνω από σύννεφα — Ελλάδα" />
+      </div>
+      <div class="hero-meta">
+        <b data-i18n="hero.meta.title">Πάτρα, Ελλάδα</b><br/>
+        <span data-i18n="hero.meta.sub">Μελέτες · Συμβουλευτική · Επιτόπου υποστήριξη</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── Credentials strip ─────────────────────────────────────── -->
+<section class="credentials" aria-label="Credentials">
+  <div class="container">
+    <div class="credentials-row">
+      <div class="cred">
+        <div class="cred-num">24<sup>+</sup></div>
+        <div class="cred-label" data-i18n="cred.years">Χρόνια εμπειρίας</div>
+      </div>
+      <div class="cred">
+        <div class="cred-num">2002</div>
+        <div class="cred-label" data-i18n="cred.education">Πανεπιστήμιο Πατρών</div>
+      </div>
+      <div class="cred">
+        <div class="cred-num serif" style="font-size:1.45rem;line-height:1.15;letter-spacing:-0.005em;padding-top:0.7rem">
+          <span data-i18n="cred.specialty.value">Γεωτεχνική Μηχανική</span>
+        </div>
+        <div class="cred-label" data-i18n="cred.specialty">Εξειδίκευση</div>
+      </div>
+      <div class="cred">
+        <div class="cred-num serif" style="font-size:1.45rem;line-height:1.15;letter-spacing:-0.005em;padding-top:0.7rem">
+          Plaxis · RocFall · EpaNet
+        </div>
+        <div class="cred-label">Software</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── About ─────────────────────────────────────────────────── -->
+<section class="section" id="about" aria-labelledby="about-h2">
+  <div class="container">
+
+    <header class="section-head">
+      <div>
+        <div class="section-num" data-num="01"><span data-i18n="about.num">Σχετικά</span></div>
+      </div>
+      <div>
+        <h2 id="about-h2" data-i18n="about.h2">Πολιτικός Μηχανικός με εξειδίκευση στη γεωτεχνική.</h2>
+      </div>
+    </header>
+
+    <div class="about-grid">
+      <div class="about-body">
+        <p class="first-line" data-i18n="about.lead">
+          Συνεργάζομαι με μηχανικούς, γεωλόγους και κατασκευαστικές εταιρείες για να μετατρέπω σύνθετα γεωτεχνικά προβλήματα σε υλοποιήσιμες, ασφαλείς και οικονομικές μελέτες.
+        </p>
+        <p data-i18n="about.body">
+          Η εξειδίκευσή μου επικεντρώνεται στην αλληλεπίδραση εδάφους–κατασκευής — έναν τομέα όπου η ανάλυση απαιτεί συνδυασμό in-situ ερευνών, εργαστηριακών δοκιμών και αξιόπιστων αριθμητικών προσομοιώσεων. Από το 2002 έχω συμβάλει σε έργα κάθε κλίμακας, από ιδιωτικές κατοικίες έως δημόσια έργα υποδομής.
+        </p>
+        <p data-i18n="about.body2">
+          Παρέχω και επιτόπου υποστήριξη κατά την κατασκευή, όταν οι συνθήκες πεδίου διαφέρουν από αυτές της μελέτης ή απαιτείται γρήγορη λήψη απόφασης σε δύσκολες εδαφικές συνθήκες.
+        </p>
+
+        <div class="about-actions">
+          <a href="assets/cv-vlachakis.pdf" class="btn btn-primary" download data-i18n="cta.cv">Λήψη CV</a>
+          <a href="#contact" class="btn-link" data-i18n="cta.contact">Επικοινωνία</a>
+        </div>
+
+        <ul class="bio-list">
+          <li>
+            <span class="year" data-i18n="about.bio.0.year">2002</span>
+            <span class="bio-text" data-i18n="about.bio.0.text"><b>Διπλωματούχος Πολιτικός Μηχανικός</b>, Πανεπιστήμιο Πατρών.</span>
+          </li>
+          <li>
+            <span class="year" data-i18n="about.bio.1.year">2004</span>
+            <span class="bio-text" data-i18n="about.bio.1.text"><b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού.</span>
+          </li>
+          <li>
+            <span class="year" data-i18n="about.bio.2.year">2004–</span>
+            <span class="bio-text" data-i18n="about.bio.2.text"><b>Εξειδίκευση σε Γεωτεχνικά Έργα</b>, αλληλεπίδραση εδάφους–κατασκευής.</span>
+          </li>
+          <li>
+            <span class="year" data-i18n="about.bio.3.year">Σήμερα</span>
+            <span class="bio-text" data-i18n="about.bio.3.text"><b>Ανεξάρτητες μελέτες & υπηρεσίες</b> για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.</span>
+          </li>
+        </ul>
+      </div>
+
+      <aside class="portrait" aria-label="Portrait">
+        <div class="portrait-frame placeholder" aria-hidden="true">
+          <div style="text-align:center">
+            <div class="ph-glyph">
+              <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="currentColor" stroke-width="1.2">
+                <circle cx="12" cy="9" r="3.5" />
+                <path d="M5 20c1.2-3.5 4-5.5 7-5.5s5.8 2 7 5.5" />
+              </svg>
+            </div>
+            <div class="mono" style="font-size:0.7rem;letter-spacing:0.16em;text-transform:uppercase;color:rgba(246,242,236,0.55)">Portrait · placeholder</div>
+          </div>
+        </div>
+        <div class="portrait-caption">
+          <span data-i18n="about.portrait.caption.l">V. Vlachakis</span>
+          <span data-i18n="about.portrait.caption.r">PE · MSc</span>
+        </div>
+      </aside>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── Services (dark band) ──────────────────────────────────── -->
+<section class="section services-section" id="services" aria-labelledby="services-h2">
+  <div class="container">
+
+    <header class="section-head">
+      <div>
+        <div class="section-num" data-num="02"><span data-i18n="services.num">Υπηρεσίες</span></div>
+      </div>
+      <div>
+        <h2 id="services-h2" data-i18n="services.h2">Έξι τομείς εξειδικευμένης παροχής.</h2>
+        <p class="section-intro" data-i18n="services.intro" style="margin-top:1.25rem">
+          Από τη φάση της προμελέτης μέχρι την επιτόπου επίβλεψη — υπηρεσίες που εκπονούνται με κατάλληλα λογισμικά και βασίζονται σε επιτόπου έρευνα.
+        </p>
+      </div>
+    </header>
+
+    <ul class="services-list">
+      <li class="service">
+        <span class="service-num">01</span>
+        <h3 class="service-title" data-i18n="service.1.title">Συμβουλευτική</h3>
+        <p class="service-desc" data-i18n="service.1.desc">
+          Υποστήριξη σε έργα υποδομής όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς μελετητές, εργολάβους και κυρίους του έργου.
+        </p>
+      </li>
+      <li class="service">
+        <span class="service-num">02</span>
+        <h3 class="service-title" data-i18n="service.2.title">Επιτόπου γεωτεχνική έρευνα</h3>
+        <p class="service-desc" data-i18n="service.2.desc">
+          Διάνοιξη ερευνητικών και δειγματοληπτικών γεωτρήσεων και εκτέλεση επιτόπου δοκιμών αντοχής, διαπερατότητας και χαρακτηρισμού του εδάφους.
+        </p>
+      </li>
+      <li class="service">
+        <span class="service-num">03</span>
+        <h3 class="service-title" data-i18n="service.3.title">Γεωφυσικές δοκιμές</h3>
+        <p class="service-desc" data-i18n="service.3.desc">
+          Εφαρμογή μεθόδων επιφανειακών κυμάτων MASW και ReMi για τον προσδιορισμό της κατανομής Vs-depth profile και της σεισμικής συμπεριφοράς του εδάφους.
+        </p>
+      </li>
+      <li class="service">
+        <span class="service-num">04</span>
+        <h3 class="service-title" data-i18n="service.4.title">Υποβρύχια αυτοψία</h3>
+        <p class="service-desc" data-i18n="service.4.desc">
+          Υποβρύχια επισκόπηση λιμενικών έργων, επιβεβαίωση διαστάσεων κατασκευών, φωτογραφική και βιντεοσκοπική τεκμηρίωση, τεχνική έκθεση αυτοψίας. Υποστήριξη βυθομετρικής αποτύπωσης με sonar.
+        </p>
+      </li>
+      <li class="service">
+        <span class="service-num">05</span>
+        <h3 class="service-title" data-i18n="service.5.title">Μελέτες</h3>
+        <p class="service-desc" data-i18n="service.5.desc">
+          Εξειδικευμένες μελέτες αντιστήριξης, θεμελίωσης, ευστάθειας πρανών και υδραυλικών δικτύων, με χρήση κατάλληλων λογισμικών — Plaxis, RocFall, EpaNet κ.ά.
+        </p>
+      </li>
+      <li class="service">
+        <span class="service-num">06</span>
+        <h3 class="service-title" data-i18n="service.6.title">Υποστήριξη έργων</h3>
+        <p class="service-desc" data-i18n="service.6.desc">
+          Επιτόπου υποστήριξη μετά τη σύνταξη της μελέτης, εκτίμηση κατάστασης σε δύσκολες εδαφικές συνθήκες και καθοδήγηση της κατασκευαστικής διαδικασίας.
+        </p>
+      </li>
+    </ul>
+
+  </div>
+</section>
+
+<!-- ─── Tools / Software ──────────────────────────────────────── -->
+<section class="section" id="tools" aria-labelledby="tools-h2">
+  <div class="container">
+
+    <header class="section-head">
+      <div>
+        <div class="section-num" data-num="03"><span data-i18n="tools.num">Λογισμικά & μέθοδοι</span></div>
+      </div>
+      <div>
+        <h2 id="tools-h2" data-i18n="tools.h2">Εργαλεία ανάλυσης και πεδίου.</h2>
+        <p class="section-intro" data-i18n="tools.intro" style="margin-top:1.25rem">
+          Επαγγελματικά λογισμικά πεπερασμένων στοιχείων και επιτόπου τεχνικές που υποστηρίζουν τις μελέτες.
+        </p>
+      </div>
+    </header>
+
+    <div class="expertise-grid">
+      <div class="tool">
+        <span class="tool-tag">FEM</span>
+        <div class="tool-name">Plaxis</div>
+        <p class="tool-desc" data-i18n="tool.plaxis.desc">
+          Πεπερασμένα στοιχεία για γεωτεχνικές αναλύσεις — αντιστηρίξεις, θεμελιώσεις, παραμορφώσεις.
+        </p>
+      </div>
+      <div class="tool">
+        <span class="tool-tag">Rockfall</span>
+        <div class="tool-name">RocFall</div>
+        <p class="tool-desc" data-i18n="tool.rocfall.desc">
+          Προσομοίωση καταπτώσεων βράχων και ανάλυση κινδύνου σε φυσικά πρανή.
+        </p>
+      </div>
+      <div class="tool">
+        <span class="tool-tag">Hydraulic</span>
+        <div class="tool-name">EpaNet</div>
+        <p class="tool-desc" data-i18n="tool.epanet.desc">
+          Υδραυλική ανάλυση δικτύων ύδρευσης και υπολογισμός παροχών/πιέσεων.
+        </p>
+      </div>
+      <div class="tool">
+        <span class="tool-tag">Geophysics</span>
+        <div class="tool-name">MASW · ReMi</div>
+        <p class="tool-desc" data-i18n="tool.masw.desc">
+          Μέθοδος επιφανειακών κυμάτων για τον προσδιορισμό του Vs-depth profile.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── Featured project ──────────────────────────────────────── -->
+<section class="section project-section" id="project" aria-labelledby="project-h3">
+  <div class="container">
+
+    <header class="section-head">
+      <div>
+        <div class="section-num" data-num="04"><span data-i18n="projects.num">Έργο</span></div>
+      </div>
+      <div>
+        <h2 data-i18n="projects.h2">Πρόσφατο μελετημένο έργο.</h2>
+        <p class="section-intro" data-i18n="projects.intro" style="margin-top:1.25rem">
+          Επιλεγμένο παράδειγμα της προσέγγισης — από την αξιολόγηση πεδίου στη μελέτη και στην επιτόπου υλοποίηση.
+        </p>
+      </div>
+    </header>
+
+    <div class="project-feature">
+      <div class="project-meta">
+        <h3 id="project-h3" data-i18n="project.1.title">Αντιστήριξη παλαιού πετρόχτιστου τοίχου</h3>
+        <p class="lead" data-i18n="project.1.lead">
+          Γεωτεχνική και στατική μελέτη αντιστήριξης παλαιού τοίχου με σημάδια μεγάλης παραμόρφωσης, κατά τη διάρκεια έργων οδοποιίας έμπροσθεν.
+        </p>
+
+        <ul class="project-facts">
+          <li>
+            <span class="label" data-i18n="project1.label.loc">Τοποθεσία</span>
+            <span class="value" data-i18n="project.1.location">Πάτρα</span>
+          </li>
+          <li>
+            <span class="label" data-i18n="project1.label.year">Έτος</span>
+            <span class="value" data-i18n="project.1.year">2025</span>
+          </li>
+          <li>
+            <span class="label" data-i18n="project1.label.client">Πελάτης</span>
+            <span class="value" data-i18n="project.1.client">Κατασκευαστική εταιρεία</span>
+          </li>
+          <li>
+            <span class="label" data-i18n="project1.label.scope">Αντικείμενο</span>
+            <span class="value" data-i18n="project.1.scope">Γεωτεχνική + Στατική μελέτη</span>
+          </li>
+          <li>
+            <span class="label" data-i18n="project1.label.tools">Λογισμικό</span>
+            <span class="value">Plaxis 2D</span>
+          </li>
+        </ul>
+
+        <div class="project-cta">
+          <a href="project1.html" class="btn btn-primary" data-i18n="cta.viewProject">
+            <span>Δείτε το έργο</span>
+            <span class="arrow" aria-hidden="true"></span>
+          </a>
+        </div>
+      </div>
+
+      <div class="project-gallery" aria-label="Project photography">
+        <div class="img img-a"><img src="assets/project1-1.jpg" alt="Παλαιός πετρόχτιστος τοίχος αντιστήριξης — Πάτρα, εργοτάξιο" loading="lazy" /></div>
+        <div class="img img-b"><img src="assets/project1-2.jpg" alt="Άποψη του τοίχου με έντονη επιφανειακή φθορά" loading="lazy" /></div>
+        <div class="img img-c"><img src="assets/project1-3.jpg" alt="Λεπτομέρεια θεμελίωσης με οπλισμό" loading="lazy" /></div>
+        <div class="img img-d"><img src="assets/project1-placeholder.jpg" alt="Αριθμητική ανάλυση πεπερασμένων στοιχείων στο Plaxis — διατομή A–A" loading="lazy" /></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ─── Contact ───────────────────────────────────────────────── -->
+<section class="section" id="contact" aria-labelledby="contact-h2">
+  <div class="container">
+
+    <header class="section-head">
+      <div>
+        <div class="section-num" data-num="05"><span data-i18n="contact.num">Επικοινωνία</span></div>
+      </div>
+      <div>
+        <h2 id="contact-h2" data-i18n="contact.h2">Ας μιλήσουμε για το έργο σας.</h2>
+        <p class="section-intro" data-i18n="contact.intro" style="margin-top:1.25rem">
+          Για προσφορά, διερευνητική συζήτηση ή τεχνική γνωμοδότηση — επικοινωνήστε απευθείας ή μέσω της φόρμας.
+        </p>
+      </div>
+    </header>
+
+    <div class="contact-grid">
+
+      <div class="contact-info">
+        <dl>
+          <div class="row">
+            <dt data-i18n="contact.info.email">Email</dt>
+            <dd><a href="mailto:info@gaioconstruction.gr">info@gaioconstruction.gr</a></dd>
+          </div>
+          <div class="row">
+            <dt data-i18n="contact.info.phone">Τηλέφωνο</dt>
+            <dd><a href="tel:+302610000000">+30 2610 000 000</a></dd>
+          </div>
+          <div class="row">
+            <dt data-i18n="contact.info.location">Έδρα</dt>
+            <dd data-i18n="contact.location.value">Πάτρα, Ελλάδα</dd>
+          </div>
+          <div class="row">
+            <dt data-i18n="contact.info.hours">Ώρες</dt>
+            <dd data-i18n="contact.hours.value">Δευ–Παρ · 09:00–18:00</dd>
+          </div>
+        </dl>
+      </div>
+
+      <form id="contact-form" class="form" novalidate>
+        <div class="field">
+          <label for="cf-name"><span data-i18n="form.name">Όνομα</span> <span class="req" aria-hidden="true">*</span></label>
+          <input id="cf-name" type="text" name="name" required autocomplete="name" />
+        </div>
+        <div class="field">
+          <label for="cf-email"><span data-i18n="form.email">Email</span> <span class="req" aria-hidden="true">*</span></label>
+          <input id="cf-email" type="email" name="email" required autocomplete="email" />
+        </div>
+        <div class="field">
+          <label for="cf-subject"><span data-i18n="form.subject">Θέμα</span></label>
+          <input id="cf-subject" type="text" name="subject" />
+        </div>
+        <div class="field">
+          <label for="cf-message"><span data-i18n="form.message">Μήνυμα</span> <span class="req" aria-hidden="true">*</span></label>
+          <textarea id="cf-message" name="message" required rows="5"></textarea>
+        </div>
+        <div class="form-actions">
+          <button type="submit" class="btn btn-primary" data-i18n="cta.send">
+            <span>Αποστολή μηνύματος</span>
+            <span class="arrow" aria-hidden="true"></span>
+          </button>
+          <p class="form-note" data-i18n="form.note">
+            Θα απαντήσω εντός 1–2 εργάσιμων ημερών. Πληροφορίες που μοιράζεστε παραμένουν εμπιστευτικές.
+          </p>
+        </div>
+        <p class="form-feedback mono" role="status" aria-live="polite" hidden
+           style="margin-top:1rem;color:var(--sage);font-size:0.9rem"></p>
+      </form>
+
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ─── Footer ────────────────────────────────────────────────── -->
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a class="brand" href="#top">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none">
+              <path d="M3 16h18" stroke="currentColor" stroke-width="1" />
+              <path d="M3 18.5h18" stroke="currentColor" stroke-width="0.5" stroke-dasharray="2 2" />
+              <path d="M12 4 L18 13 H6 Z" stroke="currentColor" stroke-width="1.2" fill="none" />
+              <circle cx="12" cy="10.5" r="1" fill="currentColor" />
+            </svg>
+          </span>
+          <span class="brand-name">
+            <span>GaioConstruction Design</span>
+            <span data-i18n="brand.tagline">Γεωτεχνική · Στατική · Υδραυλική</span>
+          </span>
+        </a>
+        <p data-i18n="foot.about">
+          Διπλωματούχος Πολιτικός Μηχανικός · Μελέτες & υπηρεσίες αλληλεπίδρασης εδάφους–κατασκευής στην Ελλάδα.
+        </p>
+      </div>
+
+      <div class="footer-col">
+        <h6 data-i18n="foot.col1">Πλοήγηση</h6>
+        <ul>
+          <li><a href="#about"    data-i18n="nav.about">Σχετικά</a></li>
+          <li><a href="#services" data-i18n="nav.services">Υπηρεσίες</a></li>
+          <li><a href="#project"  data-i18n="nav.projects">Έργα</a></li>
+          <li><a href="#contact"  data-i18n="nav.contact">Επικοινωνία</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h6 data-i18n="foot.col2">Υπηρεσίες</h6>
+        <ul>
+          <li><a href="#services" data-i18n="service.5.title">Μελέτες</a></li>
+          <li><a href="#services" data-i18n="service.1.title">Συμβουλευτική</a></li>
+          <li><a href="#services" data-i18n="service.2.title">Γεωτεχνική έρευνα</a></li>
+          <li><a href="#services" data-i18n="service.4.title">Υποβρύχια αυτοψία</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h6 data-i18n="foot.col3">Επικοινωνία</h6>
+        <ul>
+          <li><a href="mailto:info@gaioconstruction.gr">info@gaioconstruction.gr</a></li>
+          <li><a href="tel:+302610000000">+30 2610 000 000</a></li>
+          <li><span data-i18n="contact.location.value">Πάτρα, Ελλάδα</span></li>
+          <li><a href="assets/cv-vlachakis.pdf" download data-i18n="cta.cv">Λήψη CV</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-base">
+      <span data-i18n="foot.copy">© 2026 GaioConstruction Design</span>
+      <span data-i18n="foot.built">Στατική σελίδα · Πάτρα, Ελλάδα</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
