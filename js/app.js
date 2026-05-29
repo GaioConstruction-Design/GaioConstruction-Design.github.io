@@ -38,7 +38,7 @@
       'cred.projects':    'Μελετημένα έργα',
       'cred.specialty':   'Εξειδίκευση',
       'cred.specialty.value': 'Γεωτεχνική Μηχανική',
-      'cred.education':   'Πανεπιστήμιο Πατρών',
+      'cred.education':   'Πανεπιστήμιο Πατρών, Πολυτεχνική Σχολή',
       'cred.education.value': 'MSc',
 
       'about.num':        'Σχετικά',
