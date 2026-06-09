@@ -384,7 +384,7 @@ p + p {
   font-weight: 400;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--muted);
+  color: var(--accent-2);
 }
 
 .nav-links {
@@ -1197,7 +1197,7 @@ p + p {
 .footer-brand p {
   margin-top: 1.25rem;
   max-width: 36ch;
-  color: var(--on-dark-2);
+  color: var(--on-dark);
   font-size: 0.96rem;
 }
 .footer-col h6 {
