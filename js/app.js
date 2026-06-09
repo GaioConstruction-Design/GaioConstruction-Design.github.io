@@ -30,9 +30,9 @@
       'hero.h1.l1':       'Όπου το έδαφος',
       'hero.h1.accent':   'συναντά',
       'hero.h1.l2':       'την κατασκευή',
-      'hero.lead':        'Εξειδικευμένες γεωτεχνικές, στατικές και υδραυλικές μελέτες για έργα υποδομής πολιτικού μηχανικού — με 24+ χρόνια εμπειρίας στην αλληλεπίδραση εδάφους–κατασκευής.',
+      'hero.lead':        'Εξειδικευμένες γεωτεχνικές, στατικές και υδραυλικές μελέτες για έργα υποδομής πολιτικού μηχανικού — με 24+ χρόνια εμπειρίας στην αλληλεπίδραση εδάφους – κατασκευής.',
       'hero.meta.title':  'Πάτρα, Ελλάδα',
-      'hero.meta.sub':    'Μελέτες · Υπηρεσίες · Επιτόπου υποστήριξη',
+      'hero.meta.sub':    'Μελέτες · Συμβουλευτική · Επιτόπου υποστήριξη έργων',
 
       'cred.years':       'Χρόνια εμπειρίας',
       'cred.projects':    'Μελετημένα έργα',
@@ -42,52 +42,52 @@
       'cred.education.value': 'MSc',
 
       'about.num':        'Σχετικά',
-      'about.h2':         'Πολιτικός Μηχανικός M.Sc. με εξειδίκευση στη γεωτεχνική & υδραυλική μηχανική',
+      'about.h2':         'Πολιτικός Μηχανικός M.Sc. με εξειδίκευση στη γεωτεχνική μηχανική',
       'about.intro':      'Από το 2002 παρέχω ολοκληρωμένες λύσεις σε έργα όπου η συμπεριφορά του εδάφους είναι κρίσιμη — από αντιστηρίξεις και θεμελιώσεις έως λιμενικά έργα και υδραυλικά συστήματα.',
-      'about.lead':       'Μόνιμη συνεργασία με μηχανικούς άλλων ειδικοτήτων, γεωλόγους και κατασκευαστικές εταιρείες για να μετατρέπονται σύνθετα γεωτεχνικά προβλήματα σε υλοποιήσιμες, ασφαλείς και οικονομικές μελέτες.',
-      'about.body':       'Εξειδίκευση που επικεντρώνεται στην αλληλεπίδραση εδάφους–κατασκευής, έναν τομέα όπου η ανάλυση απαιτεί συνδυασμό εμπειρίας, επί-τόπου ερευνών, εργαστηριακών δοκιμών γεωυλικών και αξιόπιστων αριθμητικών προσομοιώσεων. Από το 2002 έχω συμβάλει σε έργα κάθε κλίμακας, από ιδιωτικές κατοικίες έως δημόσια έργα υποδομής και ερευνητικά έργα.',
-      'about.body2':      'Παροχή επιτόπου υποστήριξης και συμβουλευτικής κατά την υλοποίηση του έργου, όταν οι συνθήκες πεδίου διαφέρουν από αυτές της μελέτης ή απαιτείται γρήγορη λήψη απόφασης σε δύσκολες εδαφικές συνθήκες.',
+      'about.lead':       'Μόνιμη συνεργασία με μηχανικούς άλλων ειδικοτήτων, γεωλόγους και κατασκευαστικές εταιρείες για να μετατρέπονται σύνθετα γεωτεχνικά προβλήματα σε υλοποιήσιμες, ασφαλείς και οικονομικές μελέτες',
+      'about.body':       'Η εξειδίκευσή μου επικεντρώνεται στην αλληλεπίδραση εδάφους–κατασκευής, έναν τομέα όπου η ανάλυση απαιτεί συνδυασμό εμπειρίας, επί-τόπου ερευνών, εργαστηριακών δοκιμών γεωυλικών και αξιόπιστων αριθμητικών προσομοιώσεων. Από το 2002 έχω συμβάλει σε έργα κάθε κλίμακας, από ιδιωτικές κατοικίες έως δημόσια έργα υποδομής.',
+      'about.body2':      'Παρέχεται επιτόπου υποστήριξη και κατά την υλοποίησης του έργου, όταν οι συνθήκες πεδίου διαφέρουν από αυτές της μελέτης ή απαιτείται γρήγορη λήψη απόφασης σε δύσκολες εδαφικές συνθήκες.',
       'about.bio.0.year': '2002',
-      'about.bio.0.text': '<b>Διπλωματούχος Πολιτικός Μηχανικός</b>, Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών.',
+      'about.bio.0.text': '<b>Διπλωματούχος Πολιτικός Μηχανικός</b>, Πανεπιστήμιο Πατρών.',
       'about.bio.1.year': '2004',
-      'about.bio.1.text': '<b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού<br>(τομέας Γεωτεχνικής Μηχανικής & Υδραυλικής Μηχανικής, Παν. Πατρών).',
-      'about.bio.2.year': '2018–2025',
-      'about.bio.2.text': '<b>Προιστάμενος Τμήματος Μελετών-Έργων<br></b>Δ/νση Ύδρευσης, ΔΕΥΑ Πάτρας.',
-      'about.bio.3.year': '2004–Σήμερα',
-      'about.bio.3.text': '<b>Μελέτες Γεωτεχνικών & Υδραυλικών Έργων: </b>Mελέτες & υπηρεσίες για ιδιώτες, μηχανικούς, δημόσιο και κατασκευαστικές εταιρείες.',
+      'about.bio.1.text': '<b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού. Εξειδίκευση σε Γεωτεχνική Μηχανική & Υδραυλική Μηχανική',
+      'about.bio.2.year': '2004 – Σήμερα',
+      'about.bio.2.text': '<b>Εξειδίκευση σε Γεωτεχνικά Έργα</b>, αλληλεπίδραση εδάφους–κατασκευής. Μελέτες και Υπηρεσίες για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
+      'about.bio.3.year': 'Σήμερα',
+      'about.bio.3.text': '<b>Ανεξάρτητες μελέτες & υπηρεσίες</b> για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
       'about.portrait.caption.l': 'V. Vlachakis',
       'about.portrait.caption.r': 'PE · M.Sc.',
 
       'services.num':     'Υπηρεσίες',
-      'services.h2':      'Έξι τομείς εξειδικευμένης παροχής.',
+      'services.h2':      'Έξι τομείς εξειδικευμένης παροχής',
       'services.intro':   'Από τη φάση της προμελέτης μέχρι την επιτόπου επίβλεψη — υπηρεσίες που εκπονούνται με χρήση κατάλληλων λογισμικών και βασίζονται σε επιτόπου έρευνα.',
 
       'service.1.title':  'Συμβουλευτική',
-      'service.1.desc':   'Υποστήριξη σε έργα όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς ιδιώτες, μηχανικούς, δημόσιες υπηρεσίες και εργολάβους.',
-      'service.2.title':  'Γεωτεχνική έρευνα',
+      'service.1.desc':   'Υποστήριξη σε έργα υποδομής όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς μελετητές, εργολάβους και Υπηρεσίες.',
+      'service.2.title':  'Επιτόπου γεωτεχνική έρευνα',
       'service.2.desc':   'Διάνοιξη ερευνητικών δειγματοληπτικών γεωτρήσεων, φρεάτων, εκτέλεση επιτόπου δοκιμών αντοχής, διαπερατότητας και χαρακτηρισμού του εδάφους. Λήψη αντιπροσωπευτικών δειγμάτων για εργαστηριακές δοκιμές σε συνεργαζόμενα πιστοποιημένα εργαστήρια εδαφομηχανικής/βραχομηχανικής.',
-      'service.3.title':  'Γεωφυσική έρευνα',
+      'service.3.title':  'Γεωφυσικές δοκιμές',
       'service.3.desc':   'Εφαρμογή μη καταστροφικών ερευνητικών μεθόδων επιφανειακών κυμάτων MASW και ReMi για τον προσδιορισμό της κατανομής Vs-depth profile, της κατηγορίας εδάφους θεμελίωσης και του ελαστικού φάσματος απόκρισης κατά EC-8.',
       'service.4.title':  'Υποβρύχια αυτοψία',
-      'service.4.desc':   'Υποβρύχια επισκόπηση λιμενικών έργων, τεκμηρίωση διαστάσεων υφιστάμενων και νέων κατασκευών, φωτογραφική και βιντεοσκοπική τεκμηρίωση, τεχνική έκθεση αυτοψίας. Bυθομετρική αποτύπωση με sonar και συμβατικές μεθόδους σε λιμενικά έργα.',
+      'service.4.desc':   'Υποβρύχια επισκόπηση λιμενικών έργων, τεκμηρίωση διαστάσεων υφιστάμενων και νέων κατασκευών, φωτογραφική και βιντεοσκοπική τεκμηρίωση, τεχνική έκθεση αυτοψίας. Υποστήριξη βυθομετρικής αποτύπωσης με sonar και συμβατικές μεθόδους σε λιμενικά έργα.',
       'service.5.title':  'Μελέτες',
-      'service.5.desc':   'Εξειδικευμένες Γεωτεχνικές Μελέτες θεμελίωσης κατασκευών, αντιστήριξης εδάφους, ευστάθειας πρανών και αποκατάστασης κατολισθήσεων, βραχοπτώσεων.\nΣτατικές μελέτες διαστασιολόγησης και όπλισης έργων αντιστήριξης (πασσάλων, τοιχείων).\nMελέτες υδραυλικών δικτύων.',
+      'service.5.desc':   'Εξειδικευμένες Γεωτεχνικές Μελέτες θεμελίωσης κατασκευών, αντιστήριξης εδάφους, ευστάθειας πρανών και αποκατάστασης κατολισθήσεων, βραχοπτώσεων, στατικών μελετών διαστασιολόγησης και όπλισης έργων αντιστήριξης, καθώς και μελέτες υδραυλικών δικτύων, με χρήση κατάλληλων λογισμικών — Plaxis, RocFall, EpaNet κ.ά.',
       'service.6.title':  'Υποστήριξη έργων',
-      'service.6.desc':   'Επιτόπου υποστήριξη μετά τη σύνταξη της μελέτης, εκτίμηση κατάστασης σε δύσκολες εδαφικές συνθήκες και καθοδήγηση της κατασκευαστικής διαδικασίας.',
+      'service.6.desc':   'Επιτόπου υποστήριξη μετά τη σύνταξη της μελέτης, εκτίμηση κατάστασης σε δύσκολες εδαφικές συνθήκες και καθοδήγηση κατασκευαστικής διαδικασίας.',
 
       'tools.num':        'Λογισμικά & εξοπλισμός',
-      'tools.h2':         'Εργαλεία ανάλυσης και εξοπλισμός πεδίου',
-      'tools.intro':      'Χρήση επαγγελματικών λογισμικών Γεωτεχνικής & Υδραυλικής Μηχανικής και εξοπλισμού επι-τόπου δοκιμών έρευνας που υποστηρίζουν τις μελέτες.',
-      'tool.plaxis.desc': 'Λογισμικό Πεπερασμένων στοιχείων για αναλύσεις συμπεριφοράς εδάφους - κατασκευής. Υπολογισμός τάσεων - παραμορφώσεων - εντατικών μεγεθών καταπόνησης δομικών στοιχείων.',
-      'tool.rocfall.desc':'Προσομοίωση καταπτώσεων βράχων και ανάλυση-διαστασιολόγηση έργων προστασίας από βραχοπτώσεις.',
-      'tool.epanet.desc': 'Υδραυλική ανάλυση δικτύων ύδρευσης, υπολογισμός παροχών/πιέσεων, διαστασιολόγηση σωληνώσεων και απαιτούμενων εξαρτημάτων δικτύου.',
-      'tool.masw.desc':   'Εξοπλισμός για την εφαρμογη της μεθόδου επιφανειακών κυμάτων και τον επι-τόπου προσδιορισμό του Vs-depth profile.',
+      'tools.h2':         'Εργαλεία ανάλυσης και πεδίου',
+      'tools.intro':      'Χρήση επαγγελματικών λογισμικών Γεωτεχνικής Μηχανικής και εξοπλισμού επι-τόπου δοκιμών έρευνας που υποστηρίζουν τις μελέτες.',
+      'tool.plaxis.desc': 'Λογισμικό Πεπερασμένων στοιχείων για αναλύσεις συμπεριφοράς εδάφους - κατασκευής. Εφαρμογές σε προβλήματα θεμελιώσεων, αντιστηρίξεων, ευστάθειας πρανών και επιχωμάτων, υπολογισμού επιτρεπόμενων φορτίων και αναμενόμενων καθιζήσεων υπό τα φορτία λειτουργίας και υπολογισμού συντελεστών ασφάλειας.',
+      'tool.rocfall.desc':'Προσομοίωση καταπτώσεων βράχων: ανάλυση / διαστασιολόγηση έργων προστασίας από βραχοπτώσεις. Εκτίμηση τροχίας καταπτώσεων σε πρανή και οδούς και υπολογισμός μέγιστης ενέργειας πρόσκρουσης. Διαστασιολόγηση φρακτών ανάσχεσης καταπτώσεων και υπολογισμός θεμελίωσης / αγκυρώσεων.',
+      'tool.epanet.desc': 'Υδραυλική ανάλυση δικτύων ύδρευσης: υπολογισμός παροχών/πιέσεων, διαστασιολόγηση σωληνώσεων και απαιτούμενων εξαρτημάτων.',
+      'tool.masw.desc':   'Εξοπλισμός για την εφαρμογη της μεθόδου επιφανειακών κυμάτων για τον προσδιορισμό του Vs-depth profile.',
 
       'projects.num':     'Έργο',
       'projects.h2':      'Ενδεικτικές Μελέτες - Έργα',
-      'projects.intro':   'Επιλεγμένα παραδείγματα της προσέγγισης — από την αξιολόγηση πεδίου στη μελέτη και στην επιτόπου υλοποίηση.',
+      'projects.intro':   'Επιλεγμένα παραδείγματα της προσέγγισης: από την αξιολόγηση και έρευνα πεδίου στη μελέτη, σύνταξη τευχών δημοπράτησης και στην επιτόπου υλοποίηση.',
       'project.1.title':  'Αντιστήριξη παλαιού πετρόχτιστου τοίχου',
-      'project.1.lead':   'Γεωτεχνική και στατική μελέτη αντιστήριξης παλαιού τοίχου με σημάδια μεγάλης παραμόρφωσης, κατά τη διάρκεια εργασιών οδοποιίας έμπροσθεν.',
+      'project.1.lead':   'Γεωτεχνική και στατική μελέτη αντιστήριξης παλαιού τοίχου με σημάδια παραμόρφωσης, κατά τη διάρκεια έργων οδοποιίας έμπροσθεν αυτού.',
       'project.1.location':'Πάτρα',
       'project.1.year':   '2025',
       'project.1.client': 'Κατασκευαστική εταιρεία',
@@ -95,7 +95,7 @@
       'project.1.constraint':'Ευαίσθητο περιβάλλον ανάντη και ταχεία εκπόνηση παράλληλα με την κατασκευαστική εργολαβία.',
       'project.1.body':   'Η μελέτη εκπονήθηκε σε πολύ σύντομο χρονικό διάστημα κατά τη διάρκεια υλοποίησης της εργολαβίας οδοποιίας, ώστε να αποφευχθεί η κατάρρευση του παλαιού τοίχου χωρίς να διακοπεί η κατασκευαστική διαδικασία. Η κατασκευή ξεκίνησε άμεσα μετά την παράδοση της μελέτης.',
       
-      'project.2.title':  'Έργo ανάσχεσης βραχοπτώσεων',
+      'project.2.title':  'Έργο ανάσχεσης βραχοπτώσεων',
       'project.2.lead':   'Γεωτεχνική μελέτη αντιμετώπισης καταπτώσεων βράχων στην Επαρχιακή Οδό αρ. 5 στην περιοχή της Στρώμης.',
       'project.2.location':'Στρώμη, Φωκίδα',
       'project.2.year':   '2017',
@@ -108,7 +108,7 @@
 
 
       'contact.num':      'Επικοινωνία',
-      'contact.h2':       'Ας μιλήσουμε για το έργο σας.',
+      'contact.h2':       'Ας μιλήσουμε για το έργο σας',
       'contact.intro':    'Για προσφορά, διερευνητική συζήτηση ή τεχνική γνωμοδότηση — επικοινωνήστε απευθείας ή μέσω της φόρμας.',
       'contact.info.email':  'Email',
       'contact.info.phone':  'Τηλέφωνο',
@@ -122,7 +122,7 @@
       'form.message':     'Μήνυμα',
       'form.note':        'Θα απαντήσω εντός 1–2 εργάσιμων ημερών. Πληροφορίες που μοιράζεστε παραμένουν εμπιστευτικές.',
 
-      'foot.about':       'Διπλωματούχος Πολιτικός Μηχανικός M.Sc. · Μελέτες & υπηρεσίες.',
+      'foot.about':       'Διπλωματούχος Πολιτικός Μηχανικός · Μελέτες & Yπηρεσίες Γεωτεχνικής Μηχανικής, Στατικών Μελετών και Υδραυλικών Έργων.',
       'foot.col1':        'Πλοήγηση',
       'foot.col2':        'Υπηρεσίες',
       'foot.col3':        'Επικοινωνία',
@@ -137,8 +137,8 @@
       'project1.label.client':'Πελάτης',
       'project1.label.tools':'Λογισμικό',
       'project1.body.h':  'Πλαίσιο & πρόκληση',
-      'project1.body.p1': 'Παλαιός πετρόχτιστος τοίχος αντιστήριξης που παρουσίαζε σημάδια παραμόρφωσης.',
-      'project1.body.p2': 'Η μελέτη εκπονήθηκε για κατασκευαστική εταιρεία, παράλληλα με την υλοποίηση της εργολαβίας.',
+      'project1.body.p1': 'Παλαιός πετρόχτιστος τοίχος αντιστήριξης παρουσίαζε σημάδια μεγάλης παραμόρφωσης. Κατά τη διάρκεια εργασιών οδοποιίας έμπροσθεν του τοίχου υπήρχε αυξημένος κίνδυνος κατάρρευσης, σε ένα ιδιαίτερα ευαίσθητο περιβάλλον ανάντη.',
+      'project1.body.p2': 'Η μελέτη εκπονήθηκε για την κατασκευαστική εταιρεία σε πολύ σύντομο χρονικό διάστημα, παράλληλα με την υλοποίηση της εργολαβίας. Η κατασκευή ξεκίνησε άμεσα μετά την παράδοση της μελέτης, χωρίς διακοπή των εργασιών οδοποιίας.',
       'project1.gallery.h':'Φωτογραφικό υλικό & ανάλυση',
 
       'project2.back':    'Επιστροφή στα έργα',
@@ -149,8 +149,8 @@
       'project2.label.client':'Πελάτης',
       'project2.label.tools':'Λογισμικό',
       'project2.body.h':  'Πλαίσιο & πρόκληση',
-      'project2.body.p1': 'Έργο ανάσχεσης βραχοπτώσεων.',
-      'project2.body.p2': 'Η μελέτη εκπονήθηκε για την Περιφέρεια Στερεάς Ελλάδας Π.Ε. Φωκίδας',
+      'project2.body.p1': 'Βραχώδες πρανές μεγάλου ύψους με εκδηλώσεις βραχοπτώσεων τεμαχίων σημαντικού μαγέθους.',
+      'project2.body.p2': 'Η μελέτη εκπονήθηκε για την Περιφέρεια Στερεάς Ελλάδος, Π.Ε. Φωκίδας.',
       'project2.gallery.h':'Φωτογραφικό υλικό & ανάλυση',
 
     },
@@ -172,7 +172,7 @@
       'hero.eyebrow':     'GaioConstruction Design',
       'hero.h1.l1':       'Where soil',
       'hero.h1.accent':   'meets',
-      'hero.h1.l2':       'structure.',
+      'hero.h1.l2':       'structure',
       'hero.lead':        'Specialised geotechnical, structural and hydraulic studies for infrastructure projects — with 24+ years of experience in soil–structure interaction.',
       'hero.meta.title':  'Patras, Greece',
       'hero.meta.sub':    'Studies · Consulting · On-site support',
@@ -185,7 +185,7 @@
       'cred.education.value': 'MSc',
 
       'about.num':        'About',
-      'about.h2':         'Civil engineer, geotechnical specialist.',
+      'about.h2':         'Civil engineer, geotechnical specialist',
       'about.intro':      'Since 2002 I have delivered end-to-end solutions for projects where soil behaviour is critical — from retaining walls and foundations to port works and hydraulic systems.',
       'about.lead':       'I work alongside engineers, geologists and construction firms to turn complex geotechnical problems into safe, buildable and economical designs.',
       'about.body':       'My focus is soil–structure interaction — a discipline that requires combining in-situ investigation, laboratory testing and reliable numerical simulation. Since 2002 I have contributed to projects across all scales, from private residences to public infrastructure.',
@@ -202,7 +202,7 @@
       'about.portrait.caption.r': 'PE · MSc',
 
       'services.num':     'Services',
-      'services.h2':      'Six areas of specialised practice.',
+      'services.h2':      'Six areas of specialised practice',
       'services.intro':   'From feasibility through to site supervision — services delivered with industry-standard tools and grounded in field investigation.',
 
       'service.1.title':  'Consulting',
@@ -219,7 +219,7 @@
       'service.6.desc':   'On-site support after the study is delivered, condition assessment in difficult soil conditions and guidance through the construction process.',
 
       'tools.num':        'Software & methods',
-      'tools.h2':         'Analysis and field tools.',
+      'tools.h2':         'Analysis and field tools',
       'tools.intro':      'Industry-standard FEM software and in-situ techniques that underpin the studies.',
       'tool.plaxis.desc': 'FEM analysis for geotechnical problems — retaining structures, foundations, deformations.',
       'tool.rocfall.desc':'Rockfall simulation and risk analysis on natural slopes.',
@@ -227,7 +227,7 @@
       'tool.masw.desc':   'Multichannel Analysis of Surface Waves — Vs-depth profiling.',
 
       'projects.num':     'Project',
-      'projects.h2':      'Recent study.',
+      'projects.h2':      'Recent study',
       'projects.intro':   'A selected example of the approach — from field assessment through to design and on-site implementation.',
       'project.1.title':  'Stabilisation of an old stone retaining wall',
       'project.1.lead':   'Geotechnical and structural study for a deformed stone wall during adjacent road works.',
@@ -237,9 +237,16 @@
       'project.1.scope':  'Geotechnical + structural study',
       'project.1.constraint':'Sensitive uphill environment (Patras Municipal Cemetery) and rapid delivery in parallel with the construction contract.',
       'project.1.body':   'The study was delivered on a very short timeline, in parallel with the road-works contract, to prevent collapse of the old wall without interrupting construction. Works started immediately after delivery.',
+      'project.2.title':  'Rockfall retention works',
+      'project.2.lead':   'Geotechnical study for addressing rockfalls on Provincial Road no. 5 in the Stromi area.',
+      'project.2.location':'Stromi, Fokida',
+      'project.2.year':   '2017',
+      'project.2.client': 'Region of Sterea Ellada',
+      'project.2.scope':  'Geotechnical study',
+      'project.2.body':   'The project was tendered and construction was completed.',
 
       'contact.num':      'Contact',
-      'contact.h2':       'Let’s talk about your project.',
+      'contact.h2':       'Let’s talk about your project',
       'contact.intro':    'For a quote, exploratory call or technical opinion — get in touch directly or via the form.',
       'contact.info.email':  'Email',
       'contact.info.phone':  'Phone',
@@ -271,6 +278,17 @@
       'project1.body.p1': 'An old dry-stone retaining wall was showing signs of significant deformation. During road works in front of the wall the risk of collapse increased, in a particularly sensitive uphill environment.',
       'project1.body.p2': 'The study was delivered for the construction company on a very short timeline, in parallel with the works contract. Construction started immediately after delivery, without interrupting the road works.',
       'project1.gallery.h':'Site photography & analysis',
+      'project2.back':    'Back to projects',
+      'project2.eyebrow': 'Project · 2017',
+      'project2.label.loc':'Location',
+      'project2.label.year':'Year',
+      'project2.label.scope':'Scope',
+      'project2.label.client':'Client',
+      'project2.label.tools':'Software',
+      'project2.body.h':  'Context & challenge',
+      'project2.body.p1': 'Rocky slope of significant height with rockfall occurrences of substantial fragment size.',
+      'project2.body.p2': 'The study was carried out for the Region of Sterea Ellada, P.E. Fokida.',
+      'project2.gallery.h':'Site photography & analysis',
     },
   };
 
@@ -480,22 +498,79 @@
     try { window.parent.postMessage({ type: '__edit_mode_available' }, '*'); } catch (e) {}
   }
 
-  // ---------- Form (no backend; shows confirmation) ----------
+  // ---------- Contact form (Web3Forms backend) ----------
+  // 1. Go to https://web3forms.com/ and copy the access key
+  // 2. Replace YOUR_ACCESS_KEY_HERE below with your real key
   function initContactForm() {
     const form = document.getElementById('contact-form');
     if (!form) return;
-    form.addEventListener('submit', (e) => {
+
+    const WEB3FORMS_ENDPOINT = 'https://api.web3forms.com/submit';
+    const WEB3FORMS_ACCESS_KEY = 'a3255732-838d-4c1d-88df-8151d133035d'; // ← replace this
+
+    form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const lang = document.documentElement.lang || 'el';
-      const ok = (lang === 'el')
-        ? 'Ευχαριστούμε — το μήνυμά σας ελήφθη. Θα σας απαντήσω σύντομα.'
-        : 'Thank you — your message was received. I will reply shortly.';
       const slot = form.querySelector('.form-feedback');
-      if (slot) {
-        slot.textContent = ok;
-        slot.hidden = false;
+      const btn = form.querySelector('button[type="submit"]');
+      const originalBtnHTML = btn ? btn.innerHTML : '';
+
+      // Build payload
+      const data = new FormData(form);
+      data.append('access_key', WEB3FORMS_ACCESS_KEY);
+      data.append('subject', 'New message from GaioConstruction Design');
+      data.append('from_name', 'GaioConstruction Design Website');
+      data.append('replyto', data.get('email') || '');
+
+      // Loading state
+      if (btn) {
+        btn.disabled = true;
+        btn.innerHTML = '<span>Sending…</span><span class="arrow" aria-hidden="true"></span>';
       }
-      form.reset();
+      if (slot) slot.hidden = true;
+
+      try {
+        const response = await fetch(WEB3FORMS_ENDPOINT, {
+          method: 'POST',
+          body: data,
+        });
+        const result = await response.json();
+
+        if (response.ok && result.success) {
+          const ok = (lang === 'el')
+            ? 'Ευχαριστούμε — το μήνυμά σας εστάλη. Θα σας απαντήσω σύντομα.'
+            : 'Thank you — your message was sent. I will reply shortly.';
+          if (slot) {
+            slot.textContent = ok;
+            slot.hidden = false;
+            slot.style.color = 'var(--sage)';
+          }
+          form.reset();
+        } else {
+          const err = (lang === 'el')
+            ? 'Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε ξανά ή επικοινωνήστε απευθείας.'
+            : 'Something went wrong. Please try again or contact me directly.';
+          if (slot) {
+            slot.textContent = err;
+            slot.hidden = false;
+            slot.style.color = '#c9a227';
+          }
+        }
+      } catch (error) {
+        const err = (lang === 'el')
+          ? 'Σφάλμα σύνδεσης. Παρακαλώ δοκιμάστε ξανά.'
+          : 'Connection error. Please try again.';
+        if (slot) {
+          slot.textContent = err;
+          slot.hidden = false;
+          slot.style.color = '#c9a227';
+        }
+      } finally {
+        if (btn) {
+          btn.disabled = false;
+          btn.innerHTML = originalBtnHTML;
+        }
+      }
     });
   }
 
