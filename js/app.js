@@ -517,10 +517,18 @@
 
       // Build payload
       const data = new FormData(form);
+      
+      // Extract values from form elements
+      const name = data.get('name');              // From <input name="name">
+      const email = data.get('email');            // From <input name="email">
+      const subject = data.get('subject');        // From <input name="subject">
+      const message = data.get('message');        // From <textarea name="message">
+      
+      // Append Web3Forms metadata
       data.append('access_key', WEB3FORMS_ACCESS_KEY);
       data.append('subject', 'New message from GaioConstruction Design');
       data.append('from_name', 'GaioConstruction Design Website');
-      data.append('replyto', data.get('email') || '');
+      data.append('replyto', email || '');
 
       // Loading state
       if (btn) {
