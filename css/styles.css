@@ -13,7 +13,7 @@
   --bg-deep-2:#152639;    /* slight elevation on dark */
   --ink:      #0f1d2e;    /* primary text on light */
   --ink-2:    #2a3a4e;    /* secondary text on light */
-  --muted:    #6a7384;    /* tertiary on light */
+  --muted:    #5a6474;    /* tertiary on light — improved contrast */    
   --on-dark:  #f6f2ec;    /* primary on dark */
   --on-dark-2:#c5cbd5;    /* secondary on dark */
   --rule:     #ddd6c9;    /* warm hairline */
@@ -60,7 +60,7 @@
   --bg-deep:   #06101c;
   --ink:       #f0ece4;
   --ink-2:     #c5cbd5;
-  --muted:     #8a93a3;
+  --muted:     #9ba6b8;    /* improved contrast for dark mode */
   --on-dark:   #f6f2ec;
   --on-dark-2: #c5cbd5;
   --rule:      #2a3a4e;
@@ -715,7 +715,7 @@ p + p { margin-top: 0.85rem; }
 .services-section h2,
 .services-section h3,
 .services-section .section-num { color: var(--on-dark); }
-.services-section .section-num { color: rgba(246,242,236,0.6); }
+.services-section .section-num { color: var(--accent); }
 .services-section .section-intro { color: var(--on-dark-2); }
 
 .services-list {
@@ -1027,7 +1027,7 @@ p + p { margin-top: 0.85rem; }
   font-family: var(--ff-mono);
   font-size: 0.76rem;
   letter-spacing: 0.08em;
-  color: rgba(246,242,236,0.6);
+  color: rgba(246,242,236,0.75);  /* improved contrast */
 }
 
 /* ----------------------------------------------------------------

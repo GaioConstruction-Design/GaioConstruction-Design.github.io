@@ -227,7 +227,7 @@
       'tool.masw.desc':   'Multichannel Analysis of Surface Waves — Vs-depth profiling.',
 
       'projects.num':     'Project',
-      'projects.h2':      'Recent study',
+      'projects.h2':      'Selected Case Studies',
       'projects.intro':   'A selected example of the approach — from field assessment through to design and on-site implementation.',
       'project.1.title':  'Stabilisation of an old stone retaining wall',
       'project.1.lead':   'Geotechnical and structural study for a deformed stone wall during adjacent road works.',
