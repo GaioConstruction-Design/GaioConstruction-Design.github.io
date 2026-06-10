@@ -37,13 +37,13 @@
 
       'cred.years': 'Χρόνια εμπειρίας',
       'cred.projects': 'Μελετημένα έργα',
-      'cred.specialty': 'Εξειδίκευση',
-      'cred.specialty.value': 'Γεωτεχνική Μηχανική',
+      'cred.specialty': 'Γεωτεχνική & Υδραυλική Μηχανική, Πανεπιστήμιο Πατρών, Πολυτεχνική Σχολή, Τμήμα Πολιτικών Μηχανικών',
+      'cred.specialty.value': '2004 Εξειδίκευση',
       'cred.education': 'Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών',
       'cred.education.value': 'MSc',
 
       'about.num': 'Σχετικά',
-      'about.h2': 'Πολιτικός Μηχανικός M.Sc. με εξειδίκευση στη γεωτεχνική μηχανική',
+      'about.h2': 'Πολιτικός Μηχανικός M.Sc. με εξειδίκευση στη Γεωτεχνική & Υδραυλική Μηχανική',
       'about.intro':
         'Από το 2002 παρέχω ολοκληρωμένες λύσεις σε έργα όπου η συμπεριφορά του εδάφους είναι κρίσιμη — από αντιστηρίξεις και θεμελιώσεις έως λιμενικά έργα και υδραυλικά συστήματα.',
       'about.lead':
@@ -57,11 +57,12 @@
       'about.bio.1.year': '2004',
       'about.bio.1.text':
         '<b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού. Εξειδίκευση σε Γεωτεχνική Μηχανική & Υδραυλική Μηχανική',
-      'about.bio.2.year': '2004 – Σήμερα',
-      'about.bio.2.text':
+      'about.bio.2.year': '2018-2025',
+      'about.bio.2.text': '<b>Προϊστάμενος Τμήματος Μελετών Έργων</b> Διεύθυνση Ύδρευσης, ΔΕΥΑ Πάτρας.',
+      'about.bio.3.year': '2004 – Σήμερα',
+      'about.bio.3.text':
         '<b>Εξειδίκευση σε Γεωτεχνικά Έργα</b>, αλληλεπίδραση εδάφους–κατασκευής. Μελέτες και Υπηρεσίες για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
-      'about.bio.3.year': 'Σήμερα',
-      'about.bio.3.text': '<b>Ανεξάρτητες μελέτες & υπηρεσίες</b> για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
+
       'about.portrait.caption.l': 'V. Vlachakis',
       'about.portrait.caption.r': 'PE · M.Sc.',
 
@@ -126,7 +127,7 @@
 
       'contact.num': 'Επικοινωνία',
       'contact.h2': 'Ας μιλήσουμε για το έργο σας',
-      'contact.intro': 'Για προσφορά, διερευνητική συζήτηση ή τεχνική γνωμοδότηση — επικοινωνήστε απευθείας ή μέσω της φόρμας.',
+      'contact.intro': 'Για προσφορά, διερευνητική συζήτηση ή τεχνική γνωμοδότηση — επικοινωνήστε απευθείας ή μέσω της παρακάτω φόρμας',
       'contact.info.email': 'Email',
       'contact.info.phone': 'Τηλέφωνο',
       'contact.info.location': 'Έδρα',
@@ -144,7 +145,7 @@
       'foot.col2': 'Υπηρεσίες',
       'foot.col3': 'Επικοινωνία',
       'foot.copy': '© 2026 GaioConstruction Design',
-      'foot.built': 'Στατική σελίδα · Πάτρα, Ελλάδα',
+      'foot.built': 'Πάτρα, Ελλάδα',
 
       'project1.back': 'Επιστροφή στα έργα',
       'project1.eyebrow': 'Έργο · 2025',
@@ -199,8 +200,8 @@
 
       'cred.years': 'Years of experience',
       'cred.projects': 'Projects delivered',
-      'cred.specialty': 'Specialisation',
-      'cred.specialty.value': 'Geotechnical',
+      'cred.specialty': 'Geotechnical & Hydraulic Engineering, University of Patras, School of Engineering, Dept. of Civil Engineering',
+      'cred.specialty.value': '2004 Specialisation',
       'cred.education': 'University of Patras',
       'cred.education.value': 'MSc',
 
@@ -285,7 +286,8 @@
 
       'contact.num': 'Contact',
       'contact.h2': 'Let’s talk about your project',
-      'contact.intro': 'For a quote, exploratory call or technical opinion — get in touch directly or via the form.',
+      'contact.intro':
+        'For quotations, preliminary discussions, or technical consultations — get in touch directly or via the following form',
       'contact.info.email': 'Email',
       'contact.info.phone': 'Phone',
       'contact.info.location': 'Based in',
