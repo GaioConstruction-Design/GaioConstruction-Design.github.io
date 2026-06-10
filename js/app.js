@@ -49,19 +49,19 @@
       'about.lead':
         'Μόνιμη συνεργασία με μηχανικούς άλλων ειδικοτήτων, γεωλόγο και κατασκευαστικές εταιρείες για να μετατρέπονται σύνθετα γεωτεχνικά προβλήματα σε τεχνικοοικονομικά ασφαλείς και υλοποιήσιμες μελέτες',
       'about.body':
-        'Η εξειδίκευσή μου επικεντρώνεται στην αλληλεπίδραση εδάφους–κατασκευής, έναν τομέα όπου η ανάλυση απαιτεί συνδυασμό εμπειρίας, επί-τόπου ερευνών, εργαστηριακών δοκιμών γεωυλικών και αξιόπιστων αριθμητικών προσομοιώσεων. Από το 2002 έχω συμβάλει σε έργα κάθε κλίμακας, από ιδιωτικές κατοικίες έως δημόσια έργα υποδομής.',
+        'Η εξειδίκευσή μου επικεντρώνεται στην αλληλεπίδραση εδάφους–κατασκευής, έναν τομέα όπου η ανάλυση απαιτεί συνδυασμό εμπειρίας, επί-τόπου ερευνών, εργαστηριακών δοκιμών γεωυλικών και αξιόπιστων αριθμητικών προσομοιώσεων. Από το 2002 έχω συμβάλει σε έργα κάθε κλίμακας στην Ελλάδα και το εξωτερικό, από ιδιωτικές κατοικίες έως δημόσια έργα υποδομής.',
       'about.body2':
         'Παρέχεται επιτόπου υποστήριξη και κατά την υλοποίηση του έργου, όταν οι συνθήκες πεδίου διαφέρουν από αυτές της μελέτης ή απαιτείται γρήγορη λήψη απόφασης κατά τη διάρκεια της κατασκευής σε δύσκολες εδαφικές συνθήκες.',
       'about.bio.0.year': '2002',
       'about.bio.0.text': '<b>Διπλωματούχος Πολιτικός Μηχανικός</b>, Πανεπιστήμιο Πατρών.',
       'about.bio.1.year': '2004',
       'about.bio.1.text':
-        '<b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού. Εξειδίκευση σε Γεωτεχνική Μηχανική & Υδραυλική Μηχανική',
+        '<b>Μεταπτυχιακό Δίπλωμα Ειδίκευσης</b> σε Έργα Υποδομής Πολιτικού Μηχανικού. Εξειδίκευση σε Γεωτεχνική Μηχανική & Υδραυλική Μηχανική.',
       'about.bio.2.year': '2018-2025',
       'about.bio.2.text': '<b>Προϊστάμενος Τμήματος Μελετών Έργων</b> Διεύθυνση Ύδρευσης, ΔΕΥΑ Πάτρας.',
       'about.bio.3.year': '2004 – Σήμερα',
       'about.bio.3.text':
-        '<b>Εξειδίκευση σε Γεωτεχνικά Έργα</b>, αλληλεπίδραση εδάφους–κατασκευής. Μελέτες και Υπηρεσίες για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
+        '<b>Εξειδίκευση σε Γεωτεχνικά Έργα</b><br /> Μελέτες και Υπηρεσίες για ιδιώτες, μηχανικούς και κατασκευαστικές εταιρείες.',
 
       'about.portrait.caption.l': 'V. Vlachakis',
       'about.portrait.caption.r': 'PE · M.Sc.',
@@ -74,7 +74,7 @@
       'service.1.title': 'Συμβουλευτική',
       'service.1.desc':
         'Υποστήριξη σε έργα υποδομής όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς μελετητές, εργολάβους και Υπηρεσίες.',
-      'service.2.title': 'Επιτόπου γεωτεχνική έρευνα',
+      'service.2.title': 'Γεωτεχνική έρευνα',
       'service.2.desc':
         'Διάνοιξη ερευνητικών δειγματοληπτικών γεωτρήσεων, φρεάτων, εκτέλεση επιτόπου δοκιμών αντοχής, διαπερατότητας και χαρακτηρισμού του εδάφους. Λήψη αντιπροσωπευτικών δειγμάτων για εργαστηριακές δοκιμές σε συνεργαζόμενα πιστοποιημένα εργαστήρια εδαφομηχανικής/βραχομηχανικής.',
       'service.3.title': 'Γεωφυσικές δοκιμές',
@@ -92,14 +92,14 @@
 
       'tools.num': 'Λογισμικά & εξοπλισμός',
       'tools.h2': 'Εργαλεία ανάλυσης και πεδίου',
-      'tools.intro': 'Χρήση επαγγελματικών λογισμικών και εξοπλισμού επι-τόπου δοκιμών έρευνας που υποστηρίζουν τις μελέτες.',
+      'tools.intro': 'Χρήση επαγγελματικών λογισμικών ανάλυσης και εξοπλισμού επι-τόπου δοκιμών και έρευνας που υποστηρίζουν τις μελέτες.',
       'tool.plaxis.desc':
-        'Λογισμικό Πεπερασμένων στοιχείων για αναλύσεις συμπεριφοράς εδάφους - κατασκευής. Εφαρμογές σε προβλήματα θεμελιώσεων, αντιστηρίξεων, ευστάθειας πρανών και επιχωμάτων, υπολογισμού επιτρεπόμενων φορτίων και αναμενόμενων καθιζήσεων υπό τα φορτία λειτουργίας και υπολογισμού συντελεστών ασφάλειας.',
-      'tool.rocfall.desc':
-        'Προσομοίωση καταπτώσεων βράχων: ανάλυση & διαστασιολόγηση τεχνικών έργων ανάσχεσης βραχοπτώσεων και υπολογισμός θεμελίωσης / αγκυρώσεων.',
+        'Λογισμικό Πεπερασμένων στοιχείων για αναλύσεις συμπεριφοράς εδάφους - κατασκευής. Υπολογισμός επιτρεπόμενων φορτίων και αναμενόμενων καθιζήσεων, συντελεστών ασφάλειας.',
+      'tool.rocfall.desc': 'Προσομοίωση καταπτώσεων βράχων: ανάλυση & διαστασιολόγηση τεχνικών έργων ανάσχεσης βραχοπτώσεων.',
       'tool.epanet.desc':
         'Υδραυλική ανάλυση δικτύων ύδρευσης: υπολογισμός παροχών/πιέσεων, διαστασιολόγηση σωληνώσεων και απαιτούμενων εξαρτημάτων.',
-      'tool.masw.desc': 'Εξοπλισμός για την εφαρμογή της μεθόδου επιφανειακών κυμάτων για τον προσδιορισμό του Vs-depth profile.',
+      'tool.masw.desc':
+        'Εξοπλισμός για την εφαρμογή της μεθόδου επιφανειακών κυμάτων για τον προσδιορισμό της κατανομής της ταχύτητας διάδοσης εγκαρσίων κυμάτων (Vs) με το βάθος από την επιφάνεια του εδάφους.',
 
       'projects.num': 'Έργο',
       'projects.h2': 'Ενδεικτικές Μελέτες - Έργα',
@@ -210,36 +210,33 @@
       'about.intro':
         'Since 2002 I have delivered end-to-end solutions for projects where soil behaviour is critical — from retaining walls and foundations to port works and hydraulic systems.',
       'about.lead':
-        'Continuous interdisciplinary collaboration with engineers from other fields, geologist and construction firms to turn complex geotechnical problems into safe and feasible designs.',
+        'Continuous interdisciplinary collaboration with engineers from other fields, geologist and construction firms to turn complex geotechnical problems into safe and feasible design',
       'about.body':
-        'My focus is soil–structure interaction — a discipline that requires combining in-situ investigation, laboratory testing and reliable numerical simulation. Since 2002 I have contributed to projects across all scales, from private residences to public infrastructure.',
+        'My specialization focuses on soil–structure interaction — a discipline that requires combination of in-situ investigation, laboratory testing and reliable numerical simulation. Since 2002 I have contributed to projects of all scales in Greece and abroad, from private residences to public infrastructure.',
       'about.body2':
         'I also provide on-site support during construction, when field conditions differ from those of the study or when fast decision-making is needed in difficult soil conditions.',
       'about.bio.0.year': '2002',
       'about.bio.0.text': '<b>Diploma in Civil Engineering</b>, University of Patras.',
       'about.bio.1.year': '2004',
-      'about.bio.1.text': '<b>MSc in Civil Engineering Infrastructure Works</b>.',
+      'about.bio.1.text': '<b>MSc in Civil Engineering Infrastructure Works</b>, Geotechnical & Hydraulic Engineering Specialization.',
       'about.bio.2.year': '2018–2025',
       'about.bio.2.text': '<b>Head of the Engineering Design Department</b> Water Supply Division, DEYA Patras.',
 
-      'about.bio.3.year': '2004–today',
+      'about.bio.3.year': '2002–Today',
       'about.bio.3.text':
-        '<b>Specialization in Geotechnical Engineering </b> -soil–structure interaction. Engineering design studies and consulting services for private clients, engineering professionals and construction companies.',
-
-      'about.bio.3.year': 'Today',
-      'about.bio.3.text': '<b>Independent studies & services</b> for private clients, engineers and construction firms.',
+        '<b>Specialization in Geotechnical Engineering </b> Studies and services for private clients, engineers, and construction companies.',
       'about.portrait.caption.l': 'V. Vlachakis',
       'about.portrait.caption.r': 'PE · MSc',
 
       'services.num': 'Services',
-      'services.h2': 'Areas of specialised practice',
+      'services.h2': 'Areas of specialised services',
       'services.intro':
-        'From feasibility study, engineering design to site supervision — services delivered with industry-standard tools and based in field in-situ and laboratory investigation.',
+        'From feasibility study, engineering design to site supervision — services delivered with industry-standard tools and based on in-situ and laboratory investigation.',
 
       'service.1.title': 'Consulting',
       'service.1.desc':
         'Support for infrastructure projects where soil requires expert handling. Risk analysis, evaluation of alternatives and well-founded recommendations for designers, contractors and clients.',
-      'service.2.title': 'On-site geotechnical investigation',
+      'service.2.title': 'Geotechnical investigation',
       'service.2.desc':
         'Exploratory and sampling boreholes, trial pits, in-situ strength tests, permeability and soil-characterisation. Laboratory tests in selected soil specimens at accredited soil and rock mechanics testing laboratories',
       'service.3.title': 'Geophysical testing',
@@ -250,19 +247,20 @@
         'Inspection of marine works and infrastructures, dimensions verification, photo and video documentation, technical reporting. Support for bathymetric surveys with sonar, supplemented by conventional surveying methods.',
       'service.5.title': 'Engineering studies',
       'service.5.desc':
-        'Specialised geotechnical studies for retaining structures, foundations, slope stability and landslide stabilization, rockfall protection and stabilization works studies - structural design of retaining structures - hydraulic networks design studies.',
+        'Specialised geotechnical studies for retaining structures, foundations, slope stability and landslide stabilization, rockfall protection and stabilization works - structural design of retaining structures - hydraulic networks design.',
       'service.6.title': 'Project support',
       'service.6.desc':
-        'On-site support after the study is delivered, condition assessment in difficult soil conditions and guidance through the construction process.',
+        'On-site support after the study is delivered, condition assessment in difficult soil conditions and guidance of the construction process.',
 
       'tools.num': 'Software & methods',
       'tools.h2': 'Analysis and field tools',
-      'tools.intro': 'Industry-standard software and in-situ techniques to support engineering design and studies.',
+      'tools.intro': 'Utilization of professional software for analysis and equipment for field testing and investigation.',
       'tool.plaxis.desc':
         'FEM analysis for geotechnical problems — retaining structures, foundations, slope stability problems - evaluation of soil bearing capacity, expected settlements under service loads and safety factors calculation under static and seismic loading.',
-      'tool.rocfall.desc': 'Rockfall simulation and risk analysis on natural slopes.',
-      'tool.epanet.desc': 'Hydraulic modelling of water-distribution networks; flows and pressures.',
-      'tool.masw.desc': 'Equipment for surface wave testing and determination of shear-wave velocity (Vs) profile with depth',
+      'tool.rocfall.desc': 'Rockfall simulation: analysis and design of rockfall mitigation structures.',
+      'tool.epanet.desc':
+        'Hydraulic modeling & analyses of water supply networks: calculation of flows/pressures, pipe sizing and identification of required components.',
+      'tool.masw.desc': 'Equipment for surface wave testing and determination of shear-wave velocity (Vs) profile with depth.',
 
       'projects.num': 'Project',
       'projects.h2': 'Selected Case Studies',
