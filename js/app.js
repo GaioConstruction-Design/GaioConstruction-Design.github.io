@@ -170,7 +170,7 @@
       'project2.label.tools': 'Λογισμικό',
       'project2.body.h': 'Πλαίσιο & πρόκληση',
       'project2.body.p1':
-        'Βραχώδες πρανές μεγάλου ύψους με εκδηλώσεις βραχοπτώσεων τεμαχίων σημαντικού μεγέθους. Μελετήθηκαν επιμέρους φράκτες ανάσχεσης βραχοπτώσεων καθώς και οπλισμένο επίχωμα για την ανάσχεση βραχοπτώσεων σε θέση όπου δεν ήταν εφικτή η κατασκευή φρακτών.',
+        'Βραχώδες πρανές μεγάλου ύψους με εκδηλώσεις βραχοπτώσεων τεμαχίων σημαντικού μεγέθους. Μελετήθηκαν επιμέρους φράκτες ανάσχεσης βραχοπτώσεων καθώς και ένα οπλισμένο επίχωμα για την ανάσχεση βραχοπτώσεων σε θέση όπου δεν ήταν εφικτή η κατασκευή φρακτών.',
       'project2.body.p2': 'Η μελέτη εκπονήθηκε για την Περιφέρεια Στερεάς Ελλάδος, Π.Ε. Φωκίδας.',
       'project2.gallery.h': 'Φωτογραφικό υλικό & ανάλυση',
     },
@@ -327,7 +327,7 @@
       'project2.label.tools': 'Software',
       'project2.body.h': 'Context & challenge',
       'project2.body.p1':
-        'Rocky slope of significant height with rockfall occurrences of substantial fragment size. Individual rockfall protection fences were studied, as well as a reinforced soil retaining wall for rockfall mitigation at a location where the construction of fences was not feasible',
+        'Rocky slope of significant height with rockfall occurrences of substantial fragment size. Individual rockfall protection fences were studied, as well as a reinforced soil embankment for rockfall mitigation at a location where the construction of fences was not feasible',
       'project2.body.p2': 'The study was carried out for the Region of Sterea Ellada, P.E. Fokida.',
       'project2.gallery.h': 'Site photography & analysis',
     },
