@@ -327,7 +327,7 @@
       'project2.label.tools': 'Software',
       'project2.body.h': 'Context & challenge',
       'project2.body.p1':
-        'Rocky slope of significant height with rockfall occurrences of substantial fragment size. Individual rockfall protection fences were studied, as well as a reinforced soil embankment for rockfall mitigation at a location where the construction of fences was not feasible',
+        'Rocky slope of significant height with rockfall occurrences of substantial fragment size. Individual rockfall protection fences were studied, as well as a reinforced soil embankment for rockfall mitigation at a location where the construction of fences was not feasible.',
       'project2.body.p2': 'The study was carried out for the Region of Sterea Ellada, P.E. Fokida.',
       'project2.gallery.h': 'Site photography & analysis',
     },
