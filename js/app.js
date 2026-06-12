@@ -37,9 +37,9 @@
 
       'cred.years': 'Χρόνια εμπειρίας',
       'cred.projects': 'Μελετημένα έργα',
-      'cred.specialty': 'Γεωτεχνική & Υδραυλική Μηχανική, Πανεπιστήμιο Πατρών, Πολυτεχνική Σχολή, Τμήμα Πολιτικών Μηχανικών',
+      'cred.specialty': 'M.Sc.Γεωτεχνική & Υδραυλική Μηχανική, Πανεπιστήμιο Πατρών, Πολυτεχνική Σχολή, Τμήμα Πολιτικών Μηχανικών',
       'cred.specialty.value': '2004 Εξειδίκευση',
-      'cred.education': 'Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών',
+      'cred.education': 'Δίπλωμα Πολ. Μηχανικού, Πολυτεχνική Σχολή, Πανεπιστήμιο Πατρών',
       'cred.education.value': 'MSc',
 
       'about.num': 'Σχετικά',
@@ -73,7 +73,7 @@
 
       'service.1.title': 'Συμβουλευτική',
       'service.1.desc':
-        'Υποστήριξη σε έργα υποδομής όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς μελετητές, εργολάβους και Υπηρεσίες.',
+        'Υποστήριξη σε έργα υποδομής όπου το έδαφος απαιτεί εξειδικευμένη γνώση. Ανάλυση κινδύνου, εκτίμηση εναλλακτικών λύσεων και τεκμηριωμένες προτάσεις προς μελετητές, κατασκευαστικές εταιρείες και Υπηρεσίες.',
       'service.2.title': 'Γεωτεχνική έρευνα',
       'service.2.desc':
         'Διάνοιξη ερευνητικών δειγματοληπτικών γεωτρήσεων, φρεάτων, εκτέλεση επιτόπου δοκιμών αντοχής, διαπερατότητας και χαρακτηρισμού του εδάφους. Λήψη αντιπροσωπευτικών δειγμάτων για εργαστηριακές δοκιμές σε συνεργαζόμενα πιστοποιημένα εργαστήρια εδαφομηχανικής/βραχομηχανικής.',
@@ -92,7 +92,7 @@
 
       'tools.num': 'Λογισμικά & εξοπλισμός',
       'tools.h2': 'Εργαλεία ανάλυσης και πεδίου',
-      'tools.intro': 'Χρήση επαγγελματικών λογισμικών ανάλυσης και εξοπλισμού επι-τόπου δοκιμών και έρευνας που υποστηρίζουν τις μελέτες.',
+      'tools.intro': 'Χρήση επαγγελματικών λογισμικών ανάλυσης και εξοπλισμού επι-τόπου δοκιμών και έρευνας που υποστηρίζουν τις μελέτες',
       'tool.plaxis.desc':
         'Λογισμικό Πεπερασμένων στοιχείων για αναλύσεις συμπεριφοράς εδάφους - κατασκευής. Υπολογισμός επιτρεπόμενων φορτίων και αναμενόμενων καθιζήσεων, συντελεστών ασφάλειας.',
       'tool.rocfall.desc': 'Προσομοίωση καταπτώσεων βράχων: ανάλυση & διαστασιολόγηση τεχνικών έργων ανάσχεσης βραχοπτώσεων.',
@@ -103,11 +103,10 @@
 
       'projects.num': 'Έργο',
       'projects.h2': 'Ενδεικτικές Μελέτες - Έργα',
-      'projects.intro':
-        'Επιλεγμένα παραδείγματα της προσέγγισης: από την αξιολόγηση και έρευνα πεδίου στη μελέτη, σύνταξη τευχών δημοπράτησης και στην επιτόπου υλοποίηση.',
+      'projects.intro': 'Aπό την αξιολόγηση και έρευνα πεδίου, στη μελέτη, τη σύνταξη τευχών δημοπράτησης και στην επιτόπου υλοποίηση',
       'project.1.title': 'Αντιστήριξη παλαιού πετρόχτιστου τοίχου',
       'project.1.lead':
-        'Γεωτεχνική και στατική μελέτη αντιστήριξης παλαιού τοίχου με σημάδια παραμόρφωσης, κατά τη διάρκεια έργων οδοποιίας έμπροσθεν αυτού.',
+        'Γεωτεχνική και στατική μελέτη αντιστήριξης παλαιού τοίχου με σημάδια παραμόρφωσης, κατά τη διάρκεια έργων οδοποιίας έμπροσθεν αυτού',
       'project.1.location': 'Πάτρα',
       'project.1.year': '2025',
       'project.1.client': 'Κατασκευαστική εταιρεία',
@@ -117,7 +116,7 @@
         'Η μελέτη εκπονήθηκε σε πολύ σύντομο χρονικό διάστημα κατά τη διάρκεια υλοποίησης της εργολαβίας οδοποιίας, ώστε να αποφευχθεί η κατάρρευση του παλαιού τοίχου χωρίς να διακοπεί η κατασκευαστική διαδικασία. Η κατασκευή ξεκίνησε άμεσα μετά την παράδοση της μελέτης.',
 
       'project.2.title': 'Έργο ανάσχεσης βραχοπτώσεων',
-      'project.2.lead': 'Γεωτεχνική μελέτη αντιμετώπισης καταπτώσεων βράχων στην Επαρχιακή Οδό αρ. 5 στην περιοχή της Στρώμης.',
+      'project.2.lead': 'Γεωτεχνική μελέτη αντιμετώπισης καταπτώσεων βράχων στην Επαρχιακή Οδό αρ. 5 στην περιοχή της Στρώμης',
       'project.2.location': 'Στρώμη, Φωκίδα',
       'project.2.year': '2017',
       'project.2.client': 'Περιφέρεια Στερεάς Ελλάδος',
@@ -140,7 +139,7 @@
       'form.message': 'Μήνυμα',
       'form.note': 'Θα απαντήσω εντός 1–2 εργάσιμων ημερών. Πληροφορίες που μοιράζεστε παραμένουν εμπιστευτικές.',
 
-      'foot.about': 'Διπλωματούχος Πολιτικός Μηχανικός · Μελέτες & Yπηρεσίες Γεωτεχνικής Μηχανικής, Στατικών Μελετών και Υδραυλικών Έργων.',
+      'foot.about': 'Διπλωματούχος Πολιτικός Μηχανικός · Μελέτες & Yπηρεσίες Γεωτεχνικής Μηχανικής, Στατικών & Υδραυλικών Μελετών',
       'foot.col1': 'Πλοήγηση',
       'foot.col2': 'Υπηρεσίες',
       'foot.col3': 'Επικοινωνία',
@@ -200,19 +199,20 @@
 
       'cred.years': 'Years of experience',
       'cred.projects': 'Projects delivered',
-      'cred.specialty': 'Geotechnical & Hydraulic Engineering, University of Patras, School of Engineering, Dept. of Civil Engineering',
+      'cred.specialty':
+        'M.Sc.Geotechnical & Hydraulic Engineering, University of Patras, School of Engineering, Dept. of Civil Engineering',
       'cred.specialty.value': '2004 Specialisation',
-      'cred.education': 'University of Patras',
+      'cred.education': 'Civil Engineer, University of Patras',
       'cred.education.value': 'MSc',
 
       'about.num': 'About',
-      'about.h2': 'Civil engineer, geotechnical specialist',
+      'about.h2': 'Civil Engineer, Geotechnical Specialist & Hydraulics',
       'about.intro':
         'Since 2002 I have delivered end-to-end solutions for projects where soil behaviour is critical — from retaining walls and foundations to port works and hydraulic systems.',
       'about.lead':
         'Continuous interdisciplinary collaboration with engineers from other fields, geologist and construction firms to turn complex geotechnical problems into safe and feasible design',
       'about.body':
-        'My specialization focuses on soil–structure interaction — a discipline that requires combination of in-situ investigation, laboratory testing and reliable numerical simulation. Since 2002 I have contributed to projects of all scales in Greece and abroad, from private residences to public infrastructure.',
+        'My specialization focuses on soil–structure interaction, a discipline that requires combination of in-situ investigation, laboratory testing and reliable numerical simulation. Since 2002 I have contributed to projects of all scales in Greece and abroad, from private residences to public infrastructure.',
       'about.body2':
         'I also provide on-site support during construction, when field conditions differ from those of the study or when fast decision-making is needed in difficult soil conditions.',
       'about.bio.0.year': '2002',
@@ -241,7 +241,7 @@
         'Exploratory and sampling boreholes, trial pits, in-situ strength tests, permeability and soil-characterisation. Laboratory tests in selected soil specimens at accredited soil and rock mechanics testing laboratories',
       'service.3.title': 'Geophysical testing',
       'service.3.desc':
-        'In-situ aplication of Surface-Waves methods MASW (active) and ReMi (passive) for the determination the Vs-depth profile, ground type category and seismic elestic response spectra of the foundation soil, according to EC-8 provisions.',
+        'In-situ aplication of Surface-Waves methods MASW (active) and ReMi (passive) for the determination of Vs-depth profile, ground type category and seismic elestic response spectra of the foundation soil, according to EC-8 provisions.',
       'service.4.title': 'Underwater inspection',
       'service.4.desc':
         'Inspection of marine works and infrastructures, dimensions verification, photo and video documentation, technical reporting. Support for bathymetric surveys with sonar, supplemented by conventional surveying methods.',
@@ -254,19 +254,19 @@
 
       'tools.num': 'Software & methods',
       'tools.h2': 'Analysis and field tools',
-      'tools.intro': 'Utilization of professional software for analysis and equipment for field testing and investigation.',
+      'tools.intro': 'Utilization of professional software for analysis and equipment for field testing and investigation',
       'tool.plaxis.desc':
-        'FEM analysis for geotechnical problems — retaining structures, foundations, slope stability problems - evaluation of soil bearing capacity, expected settlements under service loads and safety factors calculation under static and seismic loading.',
+        'FEM analysis for geotechnical problems — retaining structures, foundations, slope stability problems - evaluation of soil bearing capacity, expected settlements and safety factors calculation under static and seismic loading.',
       'tool.rocfall.desc': 'Rockfall simulation: analysis and design of rockfall mitigation structures.',
       'tool.epanet.desc':
         'Hydraulic modeling & analyses of water supply networks: calculation of flows/pressures, pipe sizing and identification of required components.',
-      'tool.masw.desc': 'Equipment for surface wave testing and determination of shear-wave velocity (Vs) profile with depth.',
+      'tool.masw.desc': 'Specialized equipment for surface wave testing and determination of shear-wave velocity (Vs) profile with depth.',
 
       'projects.num': 'Project',
       'projects.h2': 'Selected Case Studies',
-      'projects.intro': 'A selected example of the approach — from field assessment to design and on-site implementation.',
-      'project.1.title': 'Stabilisation of an old stone retaining wall',
-      'project.1.lead': 'Geotechnical and structural study for a deformed stone wall during adjacent road works.',
+      'projects.intro': 'Approach from field assessment, to design and on-site implementation',
+      'project.1.title': 'Stabilization of an existing stone masonry wall',
+      'project.1.lead': 'Geotechnical and structural study for the retention of a stone masonry wall during adjacent road works',
       'project.1.location': 'Patras',
       'project.1.year': '2025',
       'project.1.client': 'Construction company',
@@ -274,8 +274,8 @@
       'project.1.constraint': 'Rapid delivery of study in parallel with the construction contract.',
       'project.1.body':
         'The study was delivered on a very short timeline, in parallel with the road-works contract, to prevent collapse of the old wall without interrupting construction. Works started immediately after delivery.',
-      'project.2.title': 'Rockfall retention works',
-      'project.2.lead': 'Geotechnical study for addressing rockfalls on Provincial Road no. 5 in the Stromi area.',
+      'project.2.title': 'Rockfall mitigation project',
+      'project.2.lead': 'Geotechnical study for addressing rockfalls on Provincial Road no. 5 in the Stromi area',
       'project.2.location': 'Stromi, Fokida',
       'project.2.year': '2017',
       'project.2.client': 'Region of Sterea Ellada',
@@ -284,13 +284,12 @@
 
       'contact.num': 'Contact',
       'contact.h2': 'Let’s talk about your project',
-      'contact.intro':
-        'For quotations, preliminary discussions, or technical consultations — get in touch directly or via the following form',
+      'contact.intro': 'For quotation, preliminary discussion, or technical consultation — get in touch directly or via the following form',
       'contact.info.email': 'Email',
       'contact.info.phone': 'Phone',
       'contact.info.location': 'Based in',
       'contact.info.hours': 'Hours',
-      'contact.location.value': 'Filopoimenos 56, Patras, Greece',
+      'contact.location.value': 'Filopimenos 56, Patras, Greece',
       'contact.hours.value': 'Mon–Fri · 09:00–18:00',
       'form.name': 'Name',
       'form.email': 'Email',
@@ -298,7 +297,7 @@
       'form.message': 'Message',
       'form.note': 'I reply within 1–2 working days. Anything you share stays confidential.',
 
-      'foot.about': 'Civil engineer M.Sc. · Geotechnical, structural and hydraulic studies and services.',
+      'foot.about': 'Civil engineer M.Sc. · Geotechnical, structural and hydraulic studies and services',
       'foot.col1': 'Navigate',
       'foot.col2': 'Services',
       'foot.col3': 'Contact',
@@ -314,7 +313,7 @@
       'project1.label.tools': 'Software',
       'project1.body.h': 'Context & challenge',
       'project1.body.p1':
-        'An old stone retaining wall was showing signs of deformation. During road works in front of the wall the risk of collapse increased.',
+        'An old stone masonry retaining wall exhibited signs of deformation. During road construction works in front of the wall, there was an increased risk of collapse.',
       'project1.body.p2':
         'The study was delivered for the construction company on a very short timeline, in parallel with the works contract. Construction started immediately after delivery, without interrupting the road works.',
       'project1.gallery.h': 'Site photography & analysis',
