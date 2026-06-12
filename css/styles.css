@@ -688,6 +688,9 @@ p + p {
     grid-template-columns: 1fr;
     gap: 1.25rem;
   }
+  .section-num {
+    display: none;
+  }
 }
 .section-num {
   font-family: var(--ff-mono);

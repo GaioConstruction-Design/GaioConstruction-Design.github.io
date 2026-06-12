@@ -289,7 +289,7 @@
       'contact.info.phone': 'Phone',
       'contact.info.location': 'Based in',
       'contact.info.hours': 'Hours',
-      'contact.location.value': 'Filopimenos 56, Patras, Greece',
+      'contact.location.value': 'Filopto imenos 56, Patras, Greece',
       'contact.hours.value': 'Mon–Fri · 09:00–18:00',
       'form.name': 'Name',
       'form.email': 'Email',
