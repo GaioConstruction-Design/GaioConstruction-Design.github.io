@@ -130,6 +130,7 @@
       'project.3.year': '2013',
       'project.3.client': 'Ιδιώτης',
       'project.3.scope': 'Λιμενικά έργα - Υποβρύχια αυτοψία',
+      'project.3.tools': 'CAD · λογισμικό sonar',
       'project.3.imageAlt': 'Αποτέλεσμα αυτοψίας - Βυθομέτρησης',
       'project.3.ctaLabel': 'Δείτε το έργο: Βυθομέτρηση μαρίνας και υποβρύχια αυτοψία κρηπιδωμάτων',
       'project3.label.loc': 'Τοποθεσία',
@@ -137,6 +138,13 @@
       'project3.label.scope': 'Αντικείμενο',
       'project3.label.client': 'Πελάτης',
       'project3.label.tools': 'Λογισμικό',
+      'project3.back': 'Επιστροφή στα έργα',
+      'project3.eyebrow': 'Έργο · 2013',
+      'project3.body.h': 'Πλαίσιο & πρόκληση',
+      'project3.body.p1':
+        'Υποβρύχια αυτοψία με εξοπλισμό αυτόνομης κατάδυσης και εξοπλισμό μετρήσεων, φωτογράφισης, βιντεοσκόπισης. Αποτύπωση υφιστάμενης κατάστασης, καταγραφή προβλημάτων και μελέτη έργων συντήρησης/επισκευής κρηπιδωμάτων.',
+      'project3.body.p2': 'Η μελέτη εκπονήθηκε για ιδιώτη.',
+      'project3.gallery.h': 'Φωτογραφικό υλικό & μελέτη',
 
       'contact.num': 'Επικοινωνία',
       'contact.h2': 'Ας μιλήσουμε για το έργο σας',
@@ -371,6 +379,8 @@
   // ---------- Language ----------
   const LANG_KEY = 'gcd:lang';
   function getInitialLang() {
+    const requested = new URLSearchParams(window.location.search).get('lang');
+    if (requested === 'el' || requested === 'en') return requested;
     const saved = localStorage.getItem(LANG_KEY);
     if (saved === 'el' || saved === 'en') return saved;
     return 'el';
@@ -401,6 +411,11 @@
     // Toggle pressed state on lang buttons
     document.querySelectorAll('[data-lang-btn]').forEach((btn) => {
       btn.setAttribute('aria-pressed', btn.getAttribute('data-lang-btn') === lang ? 'true' : 'false');
+    });
+    document.querySelectorAll('[data-lang-link]').forEach((link) => {
+      const url = new URL(link.getAttribute('href'), window.location.href);
+      url.searchParams.set('lang', lang);
+      link.setAttribute('href', url.href);
     });
   }
 
