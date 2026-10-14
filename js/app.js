@@ -281,6 +281,14 @@
       'project.2.client': 'Region of Sterea Ellada',
       'project.2.scope': 'Geotechnical study',
       'project.2.body': 'The project was tendered and construction was completed.',
+      'project.3.title': 'Marine works - Underwater inspection',
+      'project.3.lead': 'Marine works study in parallel with underwater inspection and bathymetric survey',
+      'project.3.location': 'Peloponnese',
+      'project.3.year': '2013',
+      'project.3.client': 'Private client',
+      'project.3.scope': 'Marine works - Underwater inspection',
+      'project.3.tools': 'Cad - Sonar software',
+      'project.2.body': 'The project was tendered and construction was completed.',
 
       'contact.num': 'Contact',
       'contact.h2': 'Let’s talk about your project',
@@ -329,6 +337,18 @@
         'Rocky slope of significant height with rockfall occurrences of substantial fragment size. Individual rockfall protection fences were studied, as well as a reinforced soil embankment for rockfall mitigation at a location where the construction of fences was not feasible.',
       'project2.body.p2': 'The study was carried out for the Region of Sterea Ellada, P.E. Fokida.',
       'project2.gallery.h': 'Site photography & analysis',
+      'project3.back': 'Back to projects',
+      'project3.eyebrow': 'Project · 2013',
+      'project3.label.loc': 'Location',
+      'project3.label.year': 'Year',
+      'project3.label.scope': 'Scope',
+      'project3.label.client': 'Client',
+      'project3.label.tools': 'Software',
+      'project3.body.h': 'Context & challenge',
+      'project3.body.p1':
+        'Underwater inspection using scuba diving equipment, bathymetric surveying with sonar and underwater tools in challenging locations for maintenance of quay walls, breakwaters and marine dredging studies.',
+      'project3.body.p2': 'The study was carried out for a private client and constructed as detailed in the report.',
+      'project3.gallery.h': 'Site photography & drawings',
     },
   };
 

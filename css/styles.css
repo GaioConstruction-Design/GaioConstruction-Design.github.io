@@ -1411,36 +1411,32 @@ p + p {
   margin-top: 3rem;
 }
 .detail-gallery .img {
-  overflow: hidden;
+  overflow: visible;
   border-radius: var(--radius);
-  background: var(--bg-deep);
+  background: var(--bg);
 }
 .detail-gallery img {
+  display: block;
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 .detail-gallery .span-6 {
   grid-column: span 6;
-  aspect-ratio: 21/9;
 }
 .detail-gallery .span-3 {
   grid-column: span 3;
-  aspect-ratio: 4/3;
 }
 .detail-gallery .span-2 {
   grid-column: span 2;
-  aspect-ratio: 1/1;
 }
 .detail-gallery .span-4 {
   grid-column: span 4;
-  aspect-ratio: 4/3;
 }
 @media (max-width: 700px) {
   .detail-gallery .span-3,
   .detail-gallery .span-2,
   .detail-gallery .span-4 {
     grid-column: span 6;
-    aspect-ratio: 4/3;
   }
 }
